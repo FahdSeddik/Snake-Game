@@ -1,6 +1,6 @@
 # SNAKE GAME
--As seen on your nokia mobile\n
--Developed with C++\n
--Has 3 Difficulty Modes 1-3 easiest to hardest\n
--This is my first game ever made \n
+-As seen on your nokia mobile
+-Developed with C++
+-Has 3 Difficulty Modes 1-3 easiest to hardest
+-This is my first game ever made 
 Hopefully, my games get progressively better with time ;)
