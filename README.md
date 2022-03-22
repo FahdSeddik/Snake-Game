@@ -2,5 +2,4 @@
 -As seen on your nokia mobile  
 -Developed with C++<br/>
 -Has 3 Difficulty Modes 1-3 easiest to hardest  
--This is my first game ever made   
-Hopefully, my games get progressively better with time ;)  
+
